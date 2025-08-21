@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishnukaranth&label=Profile%20views&color=0e75b6&style=flat" alt="vishnukaranth" /> </p>
 
-- 🌱 I’m currently learning **TypeScript, JavaScript, Next.js**
+- 🌱 I’m currently learning **TypeScript, JavaScript, Next.js and Python**
 
 - 👯 I’m looking to collaborate on **Next.js, Python, SQL, Django, SpringBoot**
 
